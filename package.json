@@ -1,0 +1,7 @@
+{
+  "name": "my-sgs-netlify-functions",
+  "version": "1.0.0",
+  "engines": {
+    "node": "18.x" // 选择一个 Netlify 支持的 Node.js LTS 版本
+  }
+}
